@@ -1,6 +1,9 @@
-# Roll20 Never Stop Blowing Up (NSBU) Roller
+# Roll20 Never Stop Blowing Up (NSBU) Roller Desktop App
 
-This is a simple desktop aoo to make my Never Stop Blowing Up (NSBU) rolls easier for me to roll. This is all based on the NSBU game system. You can learn more about it from the following pages, or checking out the sections in this page under the [NSBU Game Details heading](#nsbu-game-details):
+> [!IMPORTANT]
+> This was copied from my [Roll-NSBU-Roller repo](https://github.com/CorgiDev/Roll20-NSBU-Roller/settings/pages).
+
+This is a simple desktop app to make my Never Stop Blowing Up (NSBU) rolls easier for me to roll. This is all based on the NSBU game system. You can learn more about it from the following pages, or checking out the sections in this page under the [NSBU Game Details heading](#nsbu-game-details):
 
 - [‘Never Stop Blowing Up’ Game System | DropOut Store](https://store.dropout.tv/products/never-stop-blowing-up-game-system) (It is free!)
 - [Dimension 20: Never Stop Blowing Up | :DropOut](https://www.dropout.tv/dimension-20-never-stop-blowing-up)
