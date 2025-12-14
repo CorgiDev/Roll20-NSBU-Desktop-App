@@ -15,7 +15,7 @@ function createWindow() {
         icon: path.join(__dirname, 'build/icon.png')
     });
 
-    mainWindow.loadFile(path.join(__dirname, 'renderer/nsbu.html'));
+    mainWindow.loadFile(path.join(__dirname, 'renderer/index.html'));
 
     // Create application menu
     const template = [

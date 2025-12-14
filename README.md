@@ -19,11 +19,7 @@ The app should be able to be built to run on Windows, Linux, and Mac. Though I h
 ### Installation
 
 1. Install Node.js (https://nodejs.org/) if you haven't already
-2. Navigate to the desktop folder:
-   ```
-   cd desktop
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```
    npm install
    ```
